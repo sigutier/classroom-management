@@ -4,7 +4,7 @@
   "description": "Practica JavaScript - KeepCoding",
   "main": "src/index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node src/index.js"
   },
   "author": "sigutier",
   "license": "MIT"
