@@ -1,0 +1,11 @@
+{
+  "name": "classroom-management",
+  "version": "1.0.0",
+  "description": "Practica JavaScript - KeepCoding",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "sigutier",
+  "license": "MIT"
+}
