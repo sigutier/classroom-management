@@ -61,3 +61,11 @@ Como podéis ver, cada requisito tiene un número asignado. Cuando ejecutemos la
   - Para considerar APTA la práctica, TODOS los requisitos indispensables deben funcionar correctamente.
   - Es importante que cada requisito responda con lo que se necesita. Es decir, si un requisito pide el número de alumnos que cumplen una condición, el resultado debe ser sólo un número, y no el listado de alumnos que cumplen dicha condición. Si esto sucede, se considerará como respuesta incorrecta.
  
+<br>
+
+## Instrucciones
+  - Ejecutar el fichero `index.js` utilizando node en el terminal: `node index.js`
+
+  - En el módulo `utils.js` están definidas funciones que utilizo en index.js.
+
+  - Y en `data.js` están definidas variables comúnmente usadas.
